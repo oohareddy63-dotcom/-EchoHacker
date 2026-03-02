@@ -1,5 +1,5 @@
 <h1 align="center">
-    👹 Echo Hacker 😎
+     Echo Hacker 
 </h1>
 
 <p align="center">
