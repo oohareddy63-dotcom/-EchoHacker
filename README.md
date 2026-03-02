@@ -13,56 +13,6 @@
 
 The story of the project is pretty interesting. There's an anonymous hacker out there and his next target is you 😱. He performs his tasks (attacks) on you and you are with three options. If you choose the correct one then you can make the hacker loose points 🙌 . Othervise you end up being a victim.
 
-
-
-## 🚩 Landing Page :
-
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/documentation/1.png" height="200px">
-  </div>
-  <div class="column">
-    <img src="/assets/img/documentation/2.png" height="200px" >
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/documentation/3.png" height="200px">
-  </div>
-  <div class="column">
-    <img src="/assets/img/documentation/4.png" height="200px">
-  </div>
-</div>
-
-## 🚩 Gaming Panel
-
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/documentation/dashboard.png" height="200px">
-  </div>
-  <div class="column">
-    <img src="/assets/img/documentation/question.png" height="200px" >
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/documentation/userCorrect.png" height="200px">
-  </div>
-  <div class="column">
-    <img src="/assets/img/documentation/userWrong.png" height="200px">
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/documentation/userWins.png" height="200px">
-  </div>
-  <div class="column">
-    <img src="/assets/img/documentation/hackerWins.png" height="200px">
-  </div>
-</div>
-
-
-
 ## 📌 Technologies used
 
 ### 1. Landing Page
